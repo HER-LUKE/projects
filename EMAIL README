@@ -1,0 +1,14 @@
+Basic level emailing program to send emails or texts
+
+Sender email must have:
+'Allow third party app access'
+
+To send texts to recepient:
+Must have service provider:
+
+AT&T	number@txt.att.net
+Sprint	number@pm.sprint.com  or number@messaging.sprintpcs.com
+T-Mobile	number@tmomail.net
+Verizon Wireless	number@vtext.com
+Virgin Mobile	number@vmobl.com
+Boost Mobile	number@sms.myboostmobile.com
