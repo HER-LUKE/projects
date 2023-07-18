@@ -2,7 +2,7 @@ def split_line(segment, position):
     part1 = segment[:position]
     part2 = segment[position:]
     return part1, part2
-segment = "1648226040.566446 IP NULL> NULL: Flags [P.], NULL], length 36"
+segment = "This is an example string that can be split using this function"
 position = 15
 
 part1, part2 = split_line(segment, position)
